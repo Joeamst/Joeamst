@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Joeamst
+- 👋 Hi, I’m Akhil Oktanto
 - 👀 I’m interested in microcontroller
 - 🌱 I’m currently learning microcontroller
 - 💞️ I’m looking to collaborate on IoT
