@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akhil Oktanto
-- 👀 I’m interested in microcontroller
+- 👀 I’m interested in fly robot
 - 🌱 I’m currently learning microcontroller
 - 💞️ I’m looking to collaborate on IoT
 - 📫 How to reach me akhiloktanto.2019@gmail.com
